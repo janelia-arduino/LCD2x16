@@ -1,0 +1,6 @@
+LCD2x16	KEYWORD1
+cls	KEYWORD2
+setPosition	KEYWORD2
+write 	KEYWORD2
+setBacklight KEYWORD2
+
